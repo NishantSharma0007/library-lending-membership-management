@@ -1,0 +1,11 @@
+{
+    "items": [
+        {
+            "type": "Book",
+            "item_id": "B201",
+            "title": "Python Programming"
+        }
+    ],
+    "members": [],
+    "loans": {}
+}
